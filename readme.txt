@@ -1,4 +1,4 @@
-<h2>IoT_sharing_project!<h2>
+IoT_sharing_project!
 
 This project was created within the Bitnami environment.
 
