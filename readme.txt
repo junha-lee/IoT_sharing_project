@@ -1,3 +1,5 @@
+IoT_sharing_project!
+
 This project was created within the Bitnami environment.
 
 DB setting
